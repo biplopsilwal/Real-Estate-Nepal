@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "347383851629",
+    "firebase_url": "https://tenantnepal-d27c9.firebaseio.com",
+    "project_id": "tenantnepal-d27c9",
+    "storage_bucket": "tenantnepal-d27c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347383851629:android:dbc697a9922c4c60",
+        "android_client_info": {
+          "package_name": "app.com.tenantnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347383851629-m3l9tikp73b514r06sf4hub9amgquufe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.tenantnepal",
+            "certificate_hash": "c18e20dc233ae14219b45189738c38811691db9b"
+          }
+        },
+        {
+          "client_id": "347383851629-k7afro3orokphtd5dt5c3mcr96rsuqoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgQ2-sNt0gIirBJSGF16NATvwBhSdT2ZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347383851629-k7afro3orokphtd5dt5c3mcr96rsuqoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
